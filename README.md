@@ -1,5 +1,13 @@
 ## Hi there 👋
 🌱 I’m currently learning ...
+
+![giphy](https://github.com/user-attachments/assets/98b19581-2bcd-444f-b594-fff3fb585909)
+
+<!--
+
+
+![Itachi GIF](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)  
+**axe-n/axe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="[https://wallpapers-clan.com](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)" width="400">
 <img src="https://media1.tenor.com/m/RN_Qtdf11N0AAAAd/space.gif" width="800">
 <img src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Disk_and_Corona.gif" width="800" alt="Space animation">
@@ -8,11 +16,6 @@
   Your browser does not support the video tag.
 </video>
 
-<!--
-
-
-![Itachi GIF](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)  
-**axe-n/axe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
