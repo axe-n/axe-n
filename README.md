@@ -1,6 +1,9 @@
 ## Hi there 👋
 🌱 I’m currently learning ...
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFibXRtNThiOG94ZTh4eDdxMHJhdHJjeGRqOWtwNXB4bnJqaTgwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1dEow9wY16Hk7Lst5/giphy.gif
+" width="1000">
+
 <img src="https://github.com/user-attachments/assets/f25324e8-db40-493a-bed2-fb9ff13fe46e" width="1000">
 
 
