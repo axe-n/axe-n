@@ -1,8 +1,11 @@
 ## Hi there 👋
 🌱 I’m currently learning ...
+<img src="[https://wallpapers-clan.com](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)" width="400">
+
+<!--
+
 
 ![Itachi GIF](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)  
-<!--
 **axe-n/axe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
