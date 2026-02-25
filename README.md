@@ -1,10 +1,17 @@
 ## Hi there 👋
 🌱 I’m currently learning ...
 
-![giphy](https://github.com/user-attachments/assets/98b19581-2bcd-444f-b594-fff3fb585909)
+<img src="https://github.com/user-attachments/assets/f25324e8-db40-493a-bed2-fb9ff13fe46e" width="1000">
+
 
 <!--
 
+
+![giphy](https://github.com/user-attachments/assets/98b19581-2bcd-444f-b594-fff3fb585909)
+<p align="center">
+  <img src="URL_OF_FIRST_GIF" width="48%" />
+  <img src="URL_OF_SECOND_GIF" width="48%" />
+</p>
 
 ![Itachi GIF](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)  
 **axe-n/axe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
