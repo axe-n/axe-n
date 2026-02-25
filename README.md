@@ -3,7 +3,10 @@
 <img src="[https://wallpapers-clan.com](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)" width="400">
 <img src="https://media1.tenor.com/m/RN_Qtdf11N0AAAAd/space.gif" width="800">
 <img src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Disk_and_Corona.gif" width="800" alt="Space animation">
-
+<video width="800" autoplay loop muted playsinline>
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Disk_and_Corona.gif" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 <!--
 
