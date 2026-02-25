@@ -1,6 +1,7 @@
 ## Hi there 👋
 🌱 I’m currently learning ...
 <img src="[https://wallpapers-clan.com](https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif)" width="400">
+<img src="https://wallpapers-clan.com/wp-content/uploads/2025/11/naruto-itachi-uchiha-mangekyo-sharingan-crows-red-sky-gif-desktop-wallpaper-preview.gif" width="400">
 
 <!--
 
