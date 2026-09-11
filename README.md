@@ -1,5 +1,6 @@
-## Hi there 👋
-🌱 I’m currently learning ...
+## Hi there
+
+I’m currently working with this big fellas...
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFibXRtNThiOG94ZTh4eDdxMHJhdHJjeGRqOWtwNXB4bnJqaTgwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1dEow9wY16Hk7Lst5/giphy.gif
 " width="1000">
